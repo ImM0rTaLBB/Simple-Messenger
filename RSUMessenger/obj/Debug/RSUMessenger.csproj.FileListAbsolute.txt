@@ -1,0 +1,11 @@
+E:\Chat System\RSUMessenger\RSUMessenger\bin\Debug\RSUMessenger.exe.config
+E:\Chat System\RSUMessenger\RSUMessenger\bin\Debug\RSUMessenger.exe
+E:\Chat System\RSUMessenger\RSUMessenger\bin\Debug\RSUMessenger.pdb
+E:\Chat System\RSUMessenger\RSUMessenger\bin\Debug\WhatsAppApi.dll
+E:\Chat System\RSUMessenger\RSUMessenger\obj\Debug\RSUMessenger.csprojResolveAssemblyReference.cache
+E:\Chat System\RSUMessenger\RSUMessenger\obj\Debug\RSUMessenger.frmRegister.resources
+E:\Chat System\RSUMessenger\RSUMessenger\obj\Debug\RSUMessenger.frmRSU.resources
+E:\Chat System\RSUMessenger\RSUMessenger\obj\Debug\RSUMessenger.Properties.Resources.resources
+E:\Chat System\RSUMessenger\RSUMessenger\obj\Debug\RSUMessenger.csproj.GenerateResource.Cache
+E:\Chat System\RSUMessenger\RSUMessenger\obj\Debug\RSUMessenger.exe
+E:\Chat System\RSUMessenger\RSUMessenger\obj\Debug\RSUMessenger.pdb
